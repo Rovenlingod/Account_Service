@@ -4,7 +4,6 @@ import account.domain.User;
 import account.dtos.NewPasswordDTO;
 import account.dtos.UserCreationDTO;
 import account.dtos.UserDTO;
-import account.exceptions.StupidExceptionForStupidTests;
 import account.services.AuthService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
